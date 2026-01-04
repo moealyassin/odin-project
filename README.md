@@ -1,2 +1,2 @@
 # odin-project
-for Moe to learn web dev
+**Welcome to Moe's world!**
