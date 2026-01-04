@@ -1,2 +1,2 @@
 # odin-project
-**Welcome to Moe's world!**
+**Welcome to Moe's World!**
